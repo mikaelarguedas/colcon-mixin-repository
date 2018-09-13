@@ -1,0 +1,30 @@
+{
+  "build": {
+    "debug-paths": {
+      "build-base": "build_debug",
+      "install-base": "install_debug",
+    },
+    "rel-with-deb-info-paths": {
+      "build-base": "build_relwithdebinfo",
+      "install-base": "install_relwithdebinfo",
+    },
+    "release-paths": {
+      "build-base": "build_release",
+      "install-base": "install_release",
+    },
+  },
+  "test": {
+    "debug-paths": {
+      "build-base": "build_debug",
+      "install-base": "install_debug",
+    },
+    "rel-with-deb-info-paths": {
+      "build-base": "build_relwithdebinfo",
+      "install-base": "install_relwithdebinfo",
+    },
+    "release-paths": {
+      "build-base": "build_release",
+      "install-base": "install_release",
+    },
+  }
+}

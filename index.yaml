@@ -3,4 +3,5 @@ mixin:
   - build-type.mixin
   - ccache.mixin
   - coverage.mixin
+  - path-based-on-buildtypes.mixin
   - test-linters.mixin
